@@ -1,4 +1,4 @@
-//this is tester code i get in my local repository
+this is tester code i get in my local repository
 
 public class { 
 
@@ -7,3 +7,4 @@ public void logintest(){
 syso("login succesfull")
 }
 }
+here ajay is automation tester some changes added'
