@@ -1,0 +1,9 @@
+//this is tester code i get in my local repository
+
+public class { 
+
+@test
+public void logintest(){
+syso("login succesfull")
+}
+}
